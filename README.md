@@ -1,3 +1,2 @@
 # git
-this is sandeep dupati
-learning.
+this is sandeep dupati.
